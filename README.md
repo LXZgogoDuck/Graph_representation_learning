@@ -1,1 +1,2 @@
-# Graph_representation_learning
+# Graph representation learning
+This repository contains practical mini-projects for GRL.
